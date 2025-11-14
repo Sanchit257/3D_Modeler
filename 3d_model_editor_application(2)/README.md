@@ -15,4 +15,4 @@ The backend code is in the `convex` directory.
 Use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
 
 ## Deployed app link
-[https://scintillating-grasshopper-759.convex.app/](url)
+https://scintillating-grasshopper-759.convex.app/
